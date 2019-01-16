@@ -1,2 +1,3 @@
 # Grokking-Algorithms
-Implementations of Grokking Algorithms Book
+
+I decided to refresh my algorithms knowledge and study java with Grokking Algorithms Book.
